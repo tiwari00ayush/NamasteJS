@@ -14,7 +14,9 @@
 ## What happens when you run JS code ?
 
 - When a Js code is executed it creates a execution context.
+
   ![alt text](codeSnippet.png)
+
 - First Phase : It will allocate memory to all variable and functions.
   | Keyword | value |  
   | ------- | --- |
